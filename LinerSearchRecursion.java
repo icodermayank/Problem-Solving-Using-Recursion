@@ -3,7 +3,7 @@
  * logic -- 
  * compare the key with array element if found the return true otherwise
  * recursivly call the function for rest of the array.
- * return false for the ArrayIndexOutOfBound and NullPointerException
+ * return false for the ArrayIndexOutOfBoundException and NullPointerException
 */
 
 
