@@ -9,7 +9,7 @@
 */
 
 
-class MinimumElement{
+class MinEleArrayRecursion{
     public static void main(String [] args){
         int a []= {12,4,5,7,9,10,2,6,11};
 
