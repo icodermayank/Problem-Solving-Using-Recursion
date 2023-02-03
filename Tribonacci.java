@@ -20,7 +20,6 @@ class Tribonacci{
         System.out.println(tribonacci(n));
 
     }
-
     static int tribonacci(int n){
         int [] dp = new int [31];
 
